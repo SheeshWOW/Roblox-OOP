@@ -5,4 +5,5 @@ registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
-knit = "sleitnick/knit@1.7.0"
+Knit = "sleitnick/knit@1.7.0"
+Janitor = "kineticwallet/janitor@1.15.7"

@@ -31,6 +31,12 @@
       "$path": "src/ServerScriptService"
     },
 
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/ServerStorage"
+    },
+
     "Workspace": {
       "$properties": {
         "FilteringEnabled": true
