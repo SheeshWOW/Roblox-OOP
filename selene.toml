@@ -1,0 +1,5 @@
+std = "roblox+testez"
+
+[lints]
+empty_if = { comments_count = true }
+unused_variable = "warn"
