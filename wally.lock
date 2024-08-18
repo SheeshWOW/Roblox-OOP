@@ -40,4 +40,4 @@ dependencies = []
 [[package]]
 name = "snermory/oop-showcase"
 version = "0.1.0"
-dependencies = [["Janitor", "kineticwallet/janitor@1.15.7"], ["Knit", "sleitnick/knit@1.7.0"]]
+dependencies = [["Janitor", "kineticwallet/janitor@1.15.7"], ["Knit", "sleitnick/knit@1.7.0"], ["Promise", "evaera/promise@4.0.0"]]
